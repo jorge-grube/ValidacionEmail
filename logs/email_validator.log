@@ -1,0 +1,2 @@
+2024-11-17 13:43:52,158 - ERROR - Error al validar el correo: 12345. Error: El correo debe ser un string
+2024-11-17 13:45:00,020 - ERROR - Error al validar el correo: 12345. Error: El correo debe ser un string
